@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROI-Calculator", "ROI-Calculator.csproj", "{8A2AA60B-6780-54B5-922D-85EC86DCA98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2AA60B-6780-54B5-922D-85EC86DCA98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2AA60B-6780-54B5-922D-85EC86DCA98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2AA60B-6780-54B5-922D-85EC86DCA98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2AA60B-6780-54B5-922D-85EC86DCA98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52DF4B67-A426-4691-B810-2203E1F2418C}
+	EndGlobalSection
+EndGlobal
