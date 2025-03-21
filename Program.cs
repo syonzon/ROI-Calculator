@@ -14,7 +14,7 @@ builder.ConfigureFunctionsWorkerDefaults((context, options) =>
 });
 
 // Register services and dependencies
-builder.ConfigureServices((context, services) =>
+builder.ConfigureServices((services) =>
 {
     // Add Logging
     services.AddLogging(loggingBuilder =>
